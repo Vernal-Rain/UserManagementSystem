@@ -1,2 +1,2 @@
-# cppPractice
-Classes, pointers, string manip
+# User management system
+C++ practice with classes and pointers
